@@ -435,7 +435,7 @@ def check_kernel_config(platform):
         case "mtl":
             module_configs += [""] # TODO: fill this out
         case "st":
-            module_configs += ["SND_SOC_AMD_ACP", "SND_SOC_AMD_CZ_DA7219MX98357_MACH"]
+            module_configs += ["SND_SOC_AMD_ACP", "SND_SOC_AMD_CZ_DA7219MX98357_MACH", "SND_DESIGNWARE_I2S"]
         case "pco":
             module_configs += ["SND_SOC_AMD_ACP3x", "SND_SOC_AMD_RV_RT5682_MACH"]
         case "czn":
