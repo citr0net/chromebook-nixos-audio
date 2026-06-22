@@ -6,6 +6,9 @@
 
 ---
 
+> [!INFO]
+> This was vibecoded by Claude Sonnet 4.6, but it works surprisingly well
+
 ## Overview
 
 This repository provides a self-contained NixOS module (`chromebook-audio.nix`) that wires up Chromebook audio hardware on a full NixOS installation. It handles:
