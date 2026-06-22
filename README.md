@@ -6,7 +6,7 @@
 
 ---
 
-> [!INFO]
+> [!TIP]
 > This was vibecoded by Claude Sonnet 4.6, but it works surprisingly well
 
 ## Overview
